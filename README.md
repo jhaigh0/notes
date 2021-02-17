@@ -1,2 +1,4 @@
-# notes
+# Notes
 Things to remember
+
+:)
